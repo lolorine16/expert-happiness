@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Daily Playground - Kids News</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Dark Mode Toggle Button -->
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode" title="Switch between light and dark mode">🌙</button>
+    
+    <header>
+        <h1>The Daily Playground</h1>
+    </header>
+    <nav aria-label="Main navigation">
+        <button class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+        <div class="nav-links">
+            <a href="index.html" aria-current="page">Home</a>
+            <a href="videos.html">Videos</a>
+            <a href="about.html">About Us</a>
+        </div>
+    </nav>
+
+    <main class="main-layout">
+        <aside class="sidebar">
+            <div class="sidebar-card">
+                <h3>CATEGORIES</h3>
+                <ul class="category-list">
+                    <li><a href="#" onclick="filterArticles('all')">All News</a></li>
+                    <li><a href="#" onclick="filterArticles('hard-news')">Hard News</a></li>
+                    <li><a href="#" onclick="filterArticles('editorial')">Editorials</a></li>
+                    <li><a href="#" onclick="filterArticles('games')">Games</a></li>
+                    <li><a href="#" onclick="filterArticles('cartoons')">Cartoons</a></li>
+                    <li><a href="#" onclick="filterArticles('crafts')">Crafts</a></li>
+                </ul>
+            </div>
+
+            <div class="sidebar-card mini-game-container">
+                <h3>MINI GAME</h3>
+                <p>Catch the Coin!</p>
+                <div id="game-area">
+                    <img id="player" src="alien.png" alt="Alien Player">
+                    <div id="coin">🪙</div>
+                </div>
+                <p>Score: <span id="game-score">0</span></p>
+                <button id="start-game-btn" class="read-more" style="width: 100%;">START GAME</button>
+            </div>
+        </aside>
+
+        <div class="content-area">
+            <section class="hero">
+                <img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=Robot" class="floating-asset" style="top: -40px; left: -20px; width: 80px; animation: bounce 2s infinite;">
+                <h2>Welcome to your #1 News Source!</h2>
+                <p>Read the latest stories from the playground, the classroom, and beyond.</p>
+            </section>
+
+            <section id="articles-container" class="articles-grid">
+                <!-- Articles will be loaded here by JavaScript -->
+                <p>Loading news...</p>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 The Daily Playground. Made by the Cool Kids Group.</p>
+    </footer>
+
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0aGk2emF4eDNkMG84c2k1NnpyYTQxM3NreGJ4MzNoa3pwMHlraiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/bjE9JbNSckM0w/giphy.gif" class="nyan-cat" alt="Nyan Cat">
+    <div class="scanlines"></div>
+    <script src="script.js"></script>
+</body>
+</html>

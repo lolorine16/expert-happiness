@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "New Playground Opens in City Park",
+    "category": "hard-news",
+    "author": "Timmy Turner",
+    "date": "2026-01-02",
+    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "A brand new playground with a giant slide has opened downtown.",
+    "content": "The city has officially opened the new 'Adventure Zone' playground in the central park today. Hundreds of children gathered to be the first to try out the giant spiral slide, which is said to be the tallest in the county. <br><br> Mayor Johnson cut the ribbon at 10:00 AM. 'This is a place for everyone to have fun and make friends,' she said. The playground also features a climbing wall, a splash pad for hot days, and accessible swings for everyone. <br><br> Parents are excited too. 'It's great to have a safe place for the kids to run around,' said one local mom. The playground will be open every day from sunrise to sunset."
+  },
+  {
+    "id": 2,
+    "title": "Why Recess Should Be Longer",
+    "category": "editorial",
+    "author": "Sarah Smith",
+    "date": "2026-01-01",
+    "image": "https://images.unsplash.com/photo-1440288736878-766bd5839edb?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "summary": "An opinion piece on why 15 minutes is not enough time to play.",
+    "content": "Recess is the best part of the school day, but it is too short. We only get 15 minutes to run, play tag, and talk to our friends. By the time we get outside and choose a game, the bell rings! <br><br> Studies show that kids learn better when they have time to move their bodies. If we had a longer recess, we would be able to focus better in class. We wouldn't be so wiggly in our chairs. <br><br> I think recess should be at least 30 minutes long. This would give us enough time to really play and get our energy out. Teachers would be happier because we would be better students. It's a win-win for everyone!"
+  },
+  {
+    "id": 3,
+    "title": "Local Dog Wins Talent Show",
+    "category": "hard-news",
+    "author": "Billy Bob",
+    "date": "2025-12-28",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "A golden retriever named 'Sparky' amazed judges with his singing skills.",
+    "content": "At the annual Pet Talent Show held this weekend, a golden retriever named Sparky took home the first prize trophy. Sparky didn't just sit and stay; he actually sang along to the music! <br><br> His owner, Emily, played the piano while Sparky howled in perfect tune. The audience cheered and clapped. 'I practiced with him every day after school,' Emily said. <br><br> Sparky won a year's supply of dog treats and a shiny blue ribbon. Other contestants included a dancing cat and a hamster that could run an obstacle course in under a minute."
+  },
+  {
+    "id": 4,
+    "title": "Mystery of the Missing Lunchbox Solved",
+    "category": "hard-news",
+    "author": "Detective Dan",
+    "date": "2026-01-03",
+    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "The case of the disappearing sandwich has finally been cracked by the hall monitors.",
+    "content": "For weeks, students have been reporting missing sandwiches from their lockers. Today, the Hall Monitor Squad announced they have found the culprit: a very hungry squirrel! <br><br> 'We set up a camera and saw the squirrel opening the lockers with its tiny paws,' said Head Monitor Jenny. The squirrel, now named 'Bandit', has been safely relocated to the big oak tree outside. <br><br> The school principal has promised to install squirrel-proof locks on all lockers starting next week."
+  },
+  {
+    "id": 5,
+    "title": "Opinion: Video Games Are Good For You",
+    "category": "editorial",
+    "author": "Gamer Greg",
+    "date": "2026-01-04",
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "Why playing games can actually help you learn and solve problems.",
+    "content": "Many adults say video games are a waste of time, but I disagree. Games teach us how to solve puzzles, work as a team, and never give up. <br><br> When I play a difficult level, I have to try again and again until I succeed. This is called 'perseverance'. Also, multiplayer games help me communicate with my friends. <br><br> Of course, we shouldn't play all day. But in moderation, video games are a great way to exercise our brains and have fun at the same time."
+  },
+  {
+    "id": 6,
+    "title": "New Ice Cream Flavor at Cafeteria",
+    "category": "hard-news",
+    "author": "Chef Charlie",
+    "date": "2026-01-05",
+    "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "Students vote for 'Galactic Grape' as the new Friday treat.",
+    "content": "The school cafeteria held a vote last week for a new ice cream flavor to be served on Fridays. The winner is... Galactic Grape! <br><br> It beat out 'Homework Ham' and 'Chalkboard Chocolate' by a landslide. 'It tastes like purple and sparkles,' said one first grader. <br><br> The new flavor will be available starting this Friday. Don't forget to bring your lunch money!"
+  },
+  {
+    "id": 7,
+    "title": "Top 5 Pixel Games of 2026",
+    "category": "games",
+    "author": "Pixel Pete",
+    "date": "2026-01-06",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "The best retro-style games you need to play right now.",
+    "content": "Pixel art games are back and better than ever! Here are our top 5 picks for this year: <br><br> 1. <strong>Super Jump Bros</strong> - A classic platformer with a twist. <br> 2. <strong>Space Invaderz 2</strong> - Defend the galaxy from pixel aliens. <br> 3. <strong>Farmville Retro</strong> - Grow pixel crops and raise pixel animals. <br> 4. <strong>Dungeon Crawler</strong> - Explore dark dungeons and fight monsters. <br> 5. <strong>Racing Rivals</strong> - High-speed racing with 8-bit cars. <br><br> Which one is your favorite? Let us know in the comments!"
+  },
+  {
+    "id": 8,
+    "title": "Saturday Morning Cartoons Are Back!",
+    "category": "cartoons",
+    "author": "Toon Tammy",
+    "date": "2026-01-07",
+    "image": "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "Your favorite shows are returning to the morning lineup.",
+    "content": "Get your cereal bowls ready because Saturday morning cartoons are making a comeback! Starting next week, Channel 5 will be airing classic cartoons from 8:00 AM to 12:00 PM. <br><br> The lineup includes 'The Adventures of Super Cat', 'Space Rangers', and 'Mystery Solvers'. <br><br> 'We want to bring back the magic of Saturday mornings,' said the network president. So put on your pajamas and get ready for some laughs!"
+  },
+  {
+    "id": 9,
+    "title": "DIY: Make Your Own Slime",
+    "category": "crafts",
+    "author": "Crafty Cathy",
+    "date": "2026-01-08",
+    "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "summary": "A simple recipe to make colorful, stretchy slime at home.",
+    "content": "Looking for a fun weekend project? Why not make some slime! It's easy and fun to play with. <br><br> <strong>Ingredients:</strong> <br> - 1/2 cup clear glue <br> - 1/2 cup water <br> - 1/2 tsp baking soda <br> - 1 tbsp contact lens solution <br> - Food coloring and glitter (optional) <br><br> <strong>Instructions:</strong> <br> 1. Mix glue and water in a bowl. <br> 2. Add baking soda and stir. <br> 3. Add food coloring and glitter. <br> 4. Slowly add contact lens solution while stirring until slime forms. <br> 5. Knead with your hands and have fun!"
+  }
+]
