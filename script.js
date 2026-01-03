@@ -107,18 +107,61 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        articleDetailContainer.innerHTML = `
+        // Convert Google Drive link to embed format
+        let videoEmbedUrl = '';
+        if (article.videoUrl) {
+            // Extract file ID from Google Drive URL
+            const match = article.videoUrl.match(/\/d\/([a-zA-Z0-9_-]+)/);
+            if (match && match[1]) {
+                videoEmbedUrl = `https://drive.google.com/file/d/${match[1]}/preview`;
+            }
+        }
+
+        // Determine video orientation class
+        const videoOrientation = article.videoOrientation || 'portrait';
+        
+        // Build HTML with or without video
+        let contentHTML = `
             <h1>${article.title}</h1>
             <div class="article-meta">
                 By <strong>${article.author}</strong> | ${article.date} | <span class="category-tag">${article.category.replace('-', ' ')}</span>
             </div>
-            <img src="${article.image}" alt="${article.title}">
-            <div class="article-body">
-                ${article.content}
-            </div>
+        `;
+
+        if (videoEmbedUrl) {
+            // Layout with video side by side
+            contentHTML += `
+                <div class="article-with-video">
+                    <div class="article-content-section">
+                        <img src="${article.image}" alt="${article.title}">
+                        <div class="article-body">
+                            ${article.content}
+                        </div>
+                    </div>
+                    <div class="article-video-section">
+                        <div class="video-container ${videoOrientation}">
+                            <iframe src="${videoEmbedUrl}" allow="autoplay"></iframe>
+                        </div>
+                        <p style="text-align: center; margin-top: 10px; font-size: 0.9rem;"><em>Watch the report!</em></p>
+                    </div>
+                </div>
+            `;
+        } else {
+            // Layout without video (original)
+            contentHTML += `
+                <img src="${article.image}" alt="${article.title}">
+                <div class="article-body">
+                    ${article.content}
+                </div>
+            `;
+        }
+
+        contentHTML += `
             <br>
             <a href="index.html" class="read-more">◀ BACK TO LEVEL 1</a>
         `;
+
+        articleDetailContainer.innerHTML = contentHTML;
     }
 
     // Mini Game Logic

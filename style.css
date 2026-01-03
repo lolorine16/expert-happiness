@@ -439,10 +439,84 @@ main {
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Article with Video Layout */
+.article-with-video {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  align-items: start;
+}
+
+.article-content-section {
+  flex: 1;
+}
+
+.article-video-section {
+  flex: 0 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+
+/* Portrait Video (Phone format) */
+.video-container.portrait {
+  position: relative;
+  width: 100%;
+  max-width: none;
+  min-height: 400px;
+  aspect-ratio: 9 / 16;
+  border: 4px solid var(--border-color);
+  box-shadow: 8px 8px 0px var(--shadow-color);
+  background: #000;
+  transition: box-shadow 0.3s ease;
+}
+
+.video-container.portrait iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Landscape Video (Computer format) */
+.video-container.landscape {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 4px solid var(--border-color);
+  box-shadow: 8px 8px 0px var(--shadow-color);
+  background: #000;
+  transition: box-shadow 0.3s ease;
+}
+
+.video-container.landscape iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* Responsive: Stack on mobile */
+@media (max-width: 968px) {
+  .article-with-video {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .video-container.portrait {
+    max-width: 100%;
+  }
+}
+
 .article-detail h1 {
   font-family: var(--font-header);
   font-size: 2rem;
   margin-top: 0;
+  grid-column: 1 / -1;
 }
 
 .article-detail img {
@@ -462,6 +536,7 @@ main {
   padding-bottom: 15px;
   margin-bottom: 20px;
   transition: color 0.3s ease;
+  grid-column: 1 / -1;
 }
 
 footer {

@@ -1,92 +1,74 @@
 [
   {
     "id": 1,
-    "title": "New Playground Opens in City Park",
-    "category": "hard-news",
-    "author": "Timmy Turner",
+    "title": "35 Days Until Milan-Cortina 2026: The World Prepares",
+    "category": "sports",
+    "author": "Cyril",
     "date": "2026-01-02",
-    "image": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "A brand new playground with a giant slide has opened downtown.",
-    "content": "The city has officially opened the new 'Adventure Zone' playground in the central park today. Hundreds of children gathered to be the first to try out the giant spiral slide, which is said to be the tallest in the county. <br><br> Mayor Johnson cut the ribbon at 10:00 AM. 'This is a place for everyone to have fun and make friends,' she said. The playground also features a climbing wall, a splash pad for hot days, and accessible swings for everyone. <br><br> Parents are excited too. 'It's great to have a safe place for the kids to run around,' said one local mom. The playground will be open every day from sunrise to sunset."
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "summary": "As the countdown begins, Italy prepares to host the most eco-friendly and geographically spread-out Winter Olympics in history.",
+    "content": "<strong>PARIS – January 2, 2026</strong> – The countdown to the <strong>XXV Olympic Winter Games</strong> has officially hit the 35-day mark. As the new year begins, international attention is shifting toward Italy, where the most geographically spread-out Games in history are set to begin on <strong>February 6th</strong>. <br><br> Unlike the traditional 'one-city' model, Milan-Cortina 2026 will utilize infrastructure across two different regions: <strong>Lombardy and Veneto</strong>. This 'decentralized' approach is the pillar of the International Olympic Committee's new sustainability strategy. By using <strong>90% existing or temporary venues</strong>, Italy aims to host the most eco-friendly Winter Games ever recorded. <br><br> <strong>Logistics remain the primary concern</strong> for international delegations. With over 400 kilometers separating the ice rinks of Milan from the ski slopes of Cortina d'Ampezzo, the success of the Games will depend on the efficiency of the newly upgraded Italian transport system. As athletes from <strong>90 nations</strong> enter their final month of preparation, 2026 is officially set to be a historic year for global winter sports. <br><br> 🏔️ <em>Stay tuned for more updates as we approach the Opening Ceremony!</em> <br><br> <em>By - Cyril</em>",
+    "videoUrl": "https://drive.google.com/file/d/1e-3T_AWPjmPk_K4VdnyzSDaRG36CSfPU/view?usp=drive_link",
+    "videoOrientation": "portrait"
   },
   {
     "id": 2,
-    "title": "Why Recess Should Be Longer",
-    "category": "editorial",
-    "author": "Sarah Smith",
+    "title": "GTA 6 Delayed Again: Now Expected in November 2026",
+    "category": "gaming",
+    "author": "KPOGO-AYITE Kofi Fredy",
     "date": "2026-01-01",
-    "image": "https://images.unsplash.com/photo-1440288736878-766bd5839edb?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "summary": "An opinion piece on why 15 minutes is not enough time to play.",
-    "content": "Recess is the best part of the school day, but it is too short. We only get 15 minutes to run, play tag, and talk to our friends. By the time we get outside and choose a game, the bell rings! <br><br> Studies show that kids learn better when they have time to move their bodies. If we had a longer recess, we would be able to focus better in class. We wouldn't be so wiggly in our chairs. <br><br> I think recess should be at least 30 minutes long. This would give us enough time to really play and get our energy out. Teachers would be happier because we would be better students. It's a win-win for everyone!"
+    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "summary": "Rockstar Games pushes GTA VI launch to November 2026, marking another delay for the most anticipated game in gaming history.",
+    "content": "I'll be honest: <strong>it's frustrating, but it's not shocking anymore</strong>. Rockstar Games has officially delayed <strong>Grand Theft Auto VI</strong> once again. The game is now scheduled for <strong>November 19, 2026</strong>, after previously being dated for May 26, 2026. 🎮 <br><br> This delay follows an already long timeline. When Rockstar first revealed the game, the message was a <strong>2025 release window</strong> for current-gen consoles. Then, in 2025, Rockstar pushed the launch to May 2026, explaining they needed extra time to deliver the level of quality players expect. Now, the date has moved again—meaning fans are waiting even longer for what might be <strong>the biggest release in gaming</strong>. <br><br> Even though the wait is painful, I get the reasoning. <em>GTA is the kind of game that has to be massive, polished, and unforgettable.</em> If this delay means fewer bugs, better performance, and a more detailed world at launch, then it might be worth it. ⏳ <br><br> Still, the big question is simple: <strong>will this date hold?</strong> Hopefully, yes. Until Rockstar shares more official updates, the best move is to be patient—and to ignore the endless fake 'leaks' floating around online. 🚨 <br><br> <em>Stay tuned for more updates as we approach the new launch date!</em> <br><br> <em>By - KPOGO-AYITE Kofi Fredy</em>",
+    "videoUrl": "https://drive.google.com/file/d/1yhOx4hhbruH03zPcGcoVNmb6G4X3s8-z/view?usp=drive_link",
+    "videoOrientation": "portrait"
   },
   {
     "id": 3,
-    "title": "Local Dog Wins Talent Show",
-    "category": "hard-news",
-    "author": "Billy Bob",
+    "title": "2025-2026: Ecology at a Critical Turning Point",
+    "category": "environment",
+    "author": "Maayan",
     "date": "2025-12-28",
-    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "A golden retriever named 'Sparky' amazed judges with his singing skills.",
-    "content": "At the annual Pet Talent Show held this weekend, a golden retriever named Sparky took home the first prize trophy. Sparky didn't just sit and stay; he actually sang along to the music! <br><br> His owner, Emily, played the piano while Sparky howled in perfect tune. The audience cheered and clapped. 'I practiced with him every day after school,' Emily said. <br><br> Sparky won a year's supply of dog treats and a shiny blue ribbon. Other contestants included a dancing cat and a hamster that could run an obstacle course in under a minute."
+    "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "summary": "As climate change accelerates, the world faces a crucial moment where urgent action is needed to protect our planet's future.",
+    "content": "In <strong>2025 and 2026</strong>, ecology has become a major global issue. Around the world, the effects of climate change are becoming more visible. Rising temperatures, natural disasters, and increasing pollution show that our planet is under serious pressure. This situation makes it clear that <strong>urgent action is needed</strong>. 🌍 <br><br> <strong>Climate change is getting worse every year.</strong> Greenhouse gas emissions are still high, causing more heatwaves, droughts, floods, and wildfires. At the same time, biodiversity is in danger. Deforestation, pollution, and overuse of natural resources are leading to the disappearance of many animal and plant species, which threatens the balance of ecosystems. <br><br> However, <strong>there is hope</strong>. 🌱 Renewable energies such as solar and wind power are developing quickly. Cities are promoting public transport and cleaner ways of travelling, and more citizens are changing their daily habits to protect the environment. <br><br> <em>In 2025–2026, ecology is at a turning point.</em> The future of our planet depends on the actions we take today. Governments, companies, and citizens must work together to protect the environment and ensure a better future for the next generations. 💚 <br><br> <strong>The time to act is now!</strong> <br><br> <em>By - Maayan</em>",
+    "videoUrl": "https://drive.google.com/file/d/1r27oFMQeNnD2l3RYIfIWoj3yX2OL4W36/view?usp=drive_link",
+    "videoOrientation": "portrait"
   },
   {
     "id": 4,
-    "title": "Mystery of the Missing Lunchbox Solved",
-    "category": "hard-news",
-    "author": "Detective Dan",
+    "title": "What Is Happening in Gaza and Why Peace Talks Matter",
+    "category": "world",
+    "author": "Rayan",
     "date": "2026-01-03",
-    "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "The case of the disappearing sandwich has finally been cracked by the hall monitors.",
-    "content": "For weeks, students have been reporting missing sandwiches from their lockers. Today, the Hall Monitor Squad announced they have found the culprit: a very hungry squirrel! <br><br> 'We set up a camera and saw the squirrel opening the lockers with its tiny paws,' said Head Monitor Jenny. The squirrel, now named 'Bandit', has been safely relocated to the big oak tree outside. <br><br> The school principal has promised to install squirrel-proof locks on all lockers starting next week."
+    "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "summary": "Understanding the Gaza conflict and the global efforts to bring peace and protect families, especially children.",
+    "content": "For many years, the region called <strong>Gaza</strong> has had a conflict between Israelis and Palestinians. This year, fighting continued, and many families had to leave their homes to stay safe. It is a very difficult situation, especially for children who just want to go to school, play, and live calmly. 🕊️ <br><br> But something important is also happening: <strong>many countries and organizations are working every day to stop the fighting.</strong> The United Nations, Egypt, Qatar, and the United States have been helping both sides talk to each other. These talks are called <strong>peace negotiations</strong>. Their goal is to create a long pause in the fighting called a <strong>ceasefire</strong>, so families can receive food, water, and medicine. <br><br> Doctors and helpers from all over the world are also bringing aid. They open hospitals, give clean water, and help kids who were separated from their families. 🏥💙 <br><br> Even if the conflict is serious, it is important to know that many adults are working very hard to protect children and bring peace, and the world hopes that one day both sides will agree to live safely next to each other. <br><br> <em>Peace is always possible when people choose to talk and listen.</em> ✨ <br><br> <em>By - Rayan</em>",
+    "videoUrl": "https://drive.google.com/file/d/1HaJvYwyA6RviOaHs4lCcuB7luwilSxKU/view?usp=drive_link",
+    "videoOrientation": "portrait"
   },
   {
     "id": 5,
-    "title": "Opinion: Video Games Are Good For You",
-    "category": "editorial",
-    "author": "Gamer Greg",
+    "title": "Football 2025: A Year of Chaos, Injuries, and Unpredictability",
+    "category": "sports",
+    "author": "Ronan Quemeneur",
     "date": "2026-01-04",
-    "image": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "Why playing games can actually help you learn and solve problems.",
-    "content": "Many adults say video games are a waste of time, but I disagree. Games teach us how to solve puzzles, work as a team, and never give up. <br><br> When I play a difficult level, I have to try again and again until I succeed. This is called 'perseverance'. Also, multiplayer games help me communicate with my friends. <br><br> Of course, we shouldn't play all day. But in moderation, video games are a great way to exercise our brains and have fun at the same time."
+    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "summary": "From Bayern's struggles to Dembélé's Ballon d'Or, 2025 was a season that showed football refuses to be predictable.",
+    "content": "Football in <strong>2025</strong> felt like a nonstop highlight reel of chaos: big clubs, big names, big injuries, and even bigger arguments about how the modern game should be played. ⚽ <br><br> At club level, <strong>Bayern Munich</strong> started strongly in Germany and in Europe, but their momentum took a hit when <strong>Jamal Musiala</strong> suffered a serious leg injury after a collision with PSG goalkeeper Gianluigi Donnarumma at the FIFA Club World Cup. The incident dominated headlines, and Bayern ended up having to manage months without one of their main creators, carefully working him back toward fitness ahead of the 2026 Champions League knockouts. More broadly, 2025 kept reigniting the same debate: <em>are players simply being pushed too far between club and international calendars?</em> 🤔 <br><br> Individual awards matched the season's unpredictability. <strong>Ousmane Dembélé</strong> took the <strong>2025 Men's Ballon d'Or</strong> after a huge year with Paris Saint-Germain, while Barcelona's teenage sensation <strong>Lamine Yamal</strong> stayed in the conversation all season. Real Madrid, meanwhile, had flashes of brilliance—especially from <strong>Jude Bellingham</strong>—but mixed results, injuries, and inconsistency piled pressure on Xabi Alonso and fueled questions about whether the team's issues were tactical or simply a finishing problem. <br><br> With 2026 approaching and the expanded World Cup on the horizon, the lesson from 2025 is simple: <strong>football refuses to be predictable—and that's exactly why we keep watching.</strong> 🏆✨ <br><br> <em>By - Ronan Quemeneur</em>",
+    "videoUrl": "https://drive.google.com/file/d/1WLK9ptPPX64f1aZz60DfRf2eifyF7v_v/view?usp=drive_link",
+    "videoOrientation": "landscape"
   },
   {
     "id": 6,
-    "title": "New Ice Cream Flavor at Cafeteria",
-    "category": "hard-news",
-    "author": "Chef Charlie",
+    "title": "Fuel Prices Drop in France — But Will It Last?",
+    "category": "economy",
+    "author": "Walid",
     "date": "2026-01-05",
-    "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "Students vote for 'Galactic Grape' as the new Friday treat.",
-    "content": "The school cafeteria held a vote last week for a new ice cream flavor to be served on Fridays. The winner is... Galactic Grape! <br><br> It beat out 'Homework Ham' and 'Chalkboard Chocolate' by a landslide. 'It tastes like purple and sparkles,' said one first grader. <br><br> The new flavor will be available starting this Friday. Don't forget to bring your lunch money!"
-  },
-  {
-    "id": 7,
-    "title": "Top 5 Pixel Games of 2026",
-    "category": "games",
-    "author": "Pixel Pete",
-    "date": "2026-01-06",
-    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "The best retro-style games you need to play right now.",
-    "content": "Pixel art games are back and better than ever! Here are our top 5 picks for this year: <br><br> 1. <strong>Super Jump Bros</strong> - A classic platformer with a twist. <br> 2. <strong>Space Invaderz 2</strong> - Defend the galaxy from pixel aliens. <br> 3. <strong>Farmville Retro</strong> - Grow pixel crops and raise pixel animals. <br> 4. <strong>Dungeon Crawler</strong> - Explore dark dungeons and fight monsters. <br> 5. <strong>Racing Rivals</strong> - High-speed racing with 8-bit cars. <br><br> Which one is your favorite? Let us know in the comments!"
-  },
-  {
-    "id": 8,
-    "title": "Saturday Morning Cartoons Are Back!",
-    "category": "cartoons",
-    "author": "Toon Tammy",
-    "date": "2026-01-07",
-    "image": "https://images.unsplash.com/photo-1535905557558-afc4877a26fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "Your favorite shows are returning to the morning lineup.",
-    "content": "Get your cereal bowls ready because Saturday morning cartoons are making a comeback! Starting next week, Channel 5 will be airing classic cartoons from 8:00 AM to 12:00 PM. <br><br> The lineup includes 'The Adventures of Super Cat', 'Space Rangers', and 'Mystery Solvers'. <br><br> 'We want to bring back the magic of Saturday mornings,' said the network president. So put on your pajamas and get ready for some laughs!"
-  },
-  {
-    "id": 9,
-    "title": "DIY: Make Your Own Slime",
-    "category": "crafts",
-    "author": "Crafty Cathy",
-    "date": "2026-01-08",
-    "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "summary": "A simple recipe to make colorful, stretchy slime at home.",
-    "content": "Looking for a fun weekend project? Why not make some slime! It's easy and fun to play with. <br><br> <strong>Ingredients:</strong> <br> - 1/2 cup clear glue <br> - 1/2 cup water <br> - 1/2 tsp baking soda <br> - 1 tbsp contact lens solution <br> - Food coloring and glitter (optional) <br><br> <strong>Instructions:</strong> <br> 1. Mix glue and water in a bowl. <br> 2. Add baking soda and stir. <br> 3. Add food coloring and glitter. <br> 4. Slowly add contact lens solution while stirring until slime forms. <br> 5. Knead with your hands and have fun!"
+    "image": "https://images.unsplash.com/photo-1545262810-77515befe149?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60",
+    "summary": "Good news for drivers as fuel prices fall, but experts warn the relief may be temporary.",
+    "content": "Good news for motorists: <strong>fuel prices are currently falling in France</strong>. Over the past few weeks, the price of petrol and diesel has gone down, mainly due to lower oil prices on international markets and a more favorable economic context. For many drivers, filling up their tank now costs less than it did in recent months. ⛽ <br><br> 👉 <strong>This drop is welcomed by some consumers</strong>, who see it as a relief for their household budgets, especially those who rely on their cars every day. Lower prices at the pump are seen as a positive sign for purchasing power. <br><br> ⚠️ <strong>However, not everyone is fully satisfied.</strong> Many people point out that despite this decrease, fuel prices are still higher than they were a few years ago. High fuel taxes and long-term cost increases mean that filling up remains expensive for many households. <br><br> 🔮 <strong>Looking ahead, experts urge caution.</strong> This price drop may only be temporary. Fuel prices could rise again if oil markets become unstable, geopolitical tensions increase, or tax policies change. <br><br> ➡️ <em>Fuel prices are down — but the situation remains uncertain.</em> <br><br> <em>By - Walid</em>",
+    "videoUrl": "https://drive.google.com/file/d/1XgkGxhCE497toXMDIGZfgYMbxD37EDek/view?usp=drive_link",
+    "videoOrientation": "portrait"
   }
 ]
