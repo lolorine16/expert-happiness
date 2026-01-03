@@ -631,7 +631,7 @@ footer {
 .team-member img {
   width: 80px;
   height: 80px;
-  border-radius: 50%;
+  border-radius: 10%;
   border: 4px solid var(--border-color);
   background: white;
 }
